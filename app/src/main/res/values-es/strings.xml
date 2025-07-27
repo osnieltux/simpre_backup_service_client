@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Gestor de Salvas</string>
+    <string name="updateList">Actualizar lista</string>
+    <string name="updatedText">Lista actualizada</string>
+    <string name="textKeepPress">Mantenga presionado</string>
+    <string name="textContextMenuHeader">Seleccione una opción</string>
+    <string name="textDownload">Descargar</string>
+    <string name="textRestore">Restaurar</string>
+    <string name="textDelete">Eliminar</string>
+    <string name="operationCanceled">Operación cancelada</string>
+    <string name="loginTitle">Sesión</string>
+    <string name="loginUsername">Usuario</string>
+    <string name="loginPassword">Contraseña</string>
+    <string name="loginSignIn">Iniciar</string>
+    <string name="loginError">Error de sesión</string>
+    <string name="deleteMessage">¿Está seguro?</string>
+    <string name="textYes">Si</string>
+    <string name="textNo">No</string>
+    <string name="downloadMessage">Descargar la salva puede ocasionar un incremento de costo en sus datos.</string>
+    <string name="mainMessage">Salvas</string>
+    <string name="downloaded">descargado</string>
+    <string name="name">nombre</string>
+    <string name="createNameValidate">introduzca un nombre</string>
+    <string name="createNew">Crear nueva Salva</string>
+    <string name="created">Creado</string>
+    <string name="logoutError">Error al cerrar la sesión</string>
+    <string name="logout">Adios :-)</string>
+    <string name="saveCredentials">Guardar credenciales</string>
+    <string name="createNewBD">Crear nueva BD.</string>
+    <string name="restored">Restaurado.</string>
+    <string name="restoredNew">Nueva BD creada.</string>
+    <string name="alreadyExist">Ya existe la bd</string>
+    <string name="noBD">No se tiene bd.</string>
+    <string name="logoutSession">Cerrar</string>
+    <string name="retry">reintentar</string>
+    <string name="Error_id">Error de ID</string>
+    <string name="createBackup">Crear salva</string>
+</resources>
