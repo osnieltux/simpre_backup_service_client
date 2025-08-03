@@ -1,5 +1,5 @@
 # [simple-backup-server](https://github.com/osnieltux/simple-backup-server) client
-android client SQL
+android client
 
 
 ### License
